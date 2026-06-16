@@ -16,7 +16,7 @@ Secureboot key paths are provided inside of make.conf. Unfortunately, I can't do
 
 I use Shim as a pre-loader for GRUB2. Shim is pre-signed with microsoft certificates, being a safe and effective option for enabling Secureboot, unlike registering keys into the UEFI firmware directly with sbctl or other methods of custom key registration.
 
-NOTE: Before trying to get Secureboot working on your machine, you MUST check if it has the Secureboot option in the BIOS setup menu. Also check if you are on UEFI firmware (https://wiki.archlinux.org/title/Installation_guide, step 1.6):
+**NOTE:** Before trying to get Secureboot working on your machine, you MUST check if it has the Secureboot option in the BIOS setup menu. Also check if you are on UEFI firmware (https://wiki.archlinux.org/title/Installation_guide, step 1.6):
 
 To verify the boot mode, check the UEFI bitness:
 
