@@ -70,7 +70,6 @@ Less trusted applications like proprietary programs are installed via flatpak fo
 - Podman Desktop
 - Jami a GNU Package
 - Prism Launcher
-- Sober
 
 # Appimages (+ others ex. .jar, .sh, etc)
 
