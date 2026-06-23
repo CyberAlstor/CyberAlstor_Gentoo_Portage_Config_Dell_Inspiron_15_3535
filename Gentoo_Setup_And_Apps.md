@@ -29,10 +29,9 @@ These are trusted free and open source packages installed directly onto the host
 - LibreOffice
 - Dolphin
 - Kitty
-- Konsole
 - KeePassXC
-- Mg
-- Mc
+- neovim
+- ranger
 - Podman
 - Podman-compose
 - GNU Emacs
@@ -85,3 +84,4 @@ Appimages and other forms of executables are an unpreferred method of installati
 - Logisim Evolution
 - Tor Browser
 - Ventoy
+- Zcode
