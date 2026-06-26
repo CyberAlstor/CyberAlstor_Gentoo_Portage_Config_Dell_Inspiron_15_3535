@@ -23,7 +23,7 @@ These are trusted free and open source packages installed directly onto the host
 - sys-fs/fuse:0 (for proper appimage functionality)
 - openjdk:21 (Ghidra requires Java 21 runtime)
 
-### C++ & Vulkan Development Libraries & Tools
+### Development Tools & Libraries
 
 - valgrind
 - glfw
