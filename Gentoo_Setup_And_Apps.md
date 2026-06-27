@@ -23,6 +23,10 @@ These are trusted free and open source packages installed directly onto the host
 - sys-fs/fuse:0 (for proper appimage functionality)
 - openjdk:21 (Ghidra requires Java 21 runtime)
 
+### Security
+- lynis
+- Apparmor
+
 ### Development Tools & Libraries
 
 - valgrind
@@ -48,7 +52,6 @@ These are trusted free and open source packages installed directly onto the host
 - Filelight
 - Firewalld
 - Flatpak
-- Apparmor
 - links
 - VLC Media Player
 - Wireshark
