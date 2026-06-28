@@ -27,13 +27,14 @@ These are trusted free and open source packages installed directly onto the host
 - tor
 - torsocks
 - lynis
-- ClamAV
+- ClamAV (don't analyze ~/Documents, carries very large files, and slows down system)
 - Clamtk (ClamAV GUI)
 - rkhunter
 - chkrootkit
 - KeePassXC
 - Apparmor
 - Firewalld (**drop** zone)
+- exiftool
 
 ## 2.3 Development Tools & Libraries
 
@@ -79,13 +80,6 @@ Some free and open source applications that are not available through Portage, s
 - Beyond All Reason
 - Podman Desktop
 - Jami a GNU Package
-
-## 3.1 Proprietary or has Proprietary Elements
-
-- Prism Launcher
-- Steam
-- Heroic
-- Vesktop (FOSS Discord frontend)
 
 # 4. Appimages (+ others ex. .jar, .sh, etc)
 
