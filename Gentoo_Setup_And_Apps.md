@@ -54,6 +54,7 @@ These are trusted free and open source packages installed directly onto the host
 ## 2.4 Personal Applications
 
 - GNU Icecat (use Tor)
+- Tokodon (KDE mastodon client)
 - LibreOffice
 - Dolphin
 - Kitty
@@ -82,7 +83,7 @@ Some free and open source applications that are not available through Portage, s
 - SimpleX Chat (use Tor)
 - Podman Desktop
 - Jami a GNU Package
-- FreeTube (use Tor)
+- Vesktop (Discord alt, access over VPN, doesn't have proxy settings)
 
 # 4. Appimages (+ others ex. .jar, .sh, etc)
 
@@ -90,6 +91,7 @@ Appimages and other forms of executables are an unpreferred method of installati
 
 **NOTE:** Tor Browser is not installed via flatpak, even though the authors are verified. This is for personal reasons. It is completely your choice to do otherwise.
 
+- Radicle Desktop (Requires webkit-gtk package)
 - ExifCleaner
 - Kiwix Reader
 - debloat (https://github.com/Squiblydoo/debloat)
