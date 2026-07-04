@@ -72,6 +72,7 @@ These are trusted free and open source packages installed directly onto the host
 - Blender
 - GIMP
 - feh
+- QGis (navigation software)
 
 # 3. Flatpak (Flathub)
 
@@ -83,7 +84,7 @@ Some free and open source applications that are not available through Portage, s
 - SimpleX Chat (use Tor)
 - Podman Desktop
 - Jami a GNU Package
-- Vesktop (Discord alt, access over VPN, doesn't have proxy settings)
+- Vesktop (Discord alt, access w/ VPN from home, use Discord website over Tor in public)
 
 # 4. Appimages (+ others ex. .jar, .sh, etc)
 
@@ -91,7 +92,6 @@ Appimages and other forms of executables are an unpreferred method of installati
 
 **NOTE:** Tor Browser is not installed via flatpak, even though the authors are verified. This is for personal reasons. It is completely your choice to do otherwise.
 
-- Radicle Desktop (Requires webkit-gtk package)
 - ExifCleaner
 - Kiwix Reader
 - debloat (https://github.com/Squiblydoo/debloat)
