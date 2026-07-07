@@ -65,7 +65,7 @@ These are trusted free and open source packages installed directly onto the host
 - Filelight
 - Flatpak
 - links
-- VLC Media Player
+- MPV (video player)
 - Wireshark
 - Btop
 - qBittorrent
