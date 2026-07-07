@@ -54,6 +54,7 @@ These are trusted free and open source packages installed directly onto the host
 ## 2.4 Personal Applications
 
 - GNU Icecat (use Tor)
+- Thunderbird
 - Tokodon (KDE mastodon client)
 - LibreOffice
 - Dolphin
