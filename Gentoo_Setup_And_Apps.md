@@ -10,7 +10,7 @@
 
 These are trusted free and open source packages installed directly onto the host.
 
-## 2.1 Gentoo tools
+## 2.1 Gentoo Required Packages & Tooling
 
 - sysklogd
 - cronie
@@ -26,6 +26,7 @@ These are trusted free and open source packages installed directly onto the host
 - gentoolkit
 
 ## 2.2 Security
+
 - tor (configure w/ meek bridge)
 - proxychains
 - lynis
@@ -61,19 +62,23 @@ These are trusted free and open source packages installed directly onto the host
 - Kitty
 - Ark
 - Elisa
-- Kdenlive
 - Filelight
 - Flatpak
 - links
-- MPV (video player)
 - Wireshark
 - Btop
 - qBittorrent
-- Godot
-- Blender
-- GIMP
-- feh
 - QGis (navigation software)
+- Kcalc
+
+## 2.5 Creative Software
+
+- GIMP
+- Blender
+- Godot
+- Kdenlive
+- MPV (video player)
+- feh
 
 # 3. Flatpak (Flathub)
 
@@ -95,8 +100,6 @@ Appimages and other forms of executables are an unpreferred method of installati
 
 - ExifCleaner
 - Kiwix Reader
-- debloat (https://github.com/Squiblydoo/debloat)
-- Ghidra
 - llama.cpp
 - Logisim Evolution
 - Tor Browser
@@ -107,3 +110,19 @@ Appimages and other forms of executables are an unpreferred method of installati
 - Beyond All Reason (flatpak via flathub)
 - sauerbraten (portage)
 - supertuxkart (portage)
+
+# 6. Reverse Engineering
+
+This is a list of tools I use for RE. Only FOSS software only (ex. IDA Pro isn't allowed).
+
+- Ghidra (Github)
+- debloat (https://github.com/Squiblydoo/debloat)
+- Rizin (portage)
+- Radare2 (portage)
+- Cutter (flathub), rizin gui
+- Iaito (flathub), radare2 gui
+- gdb (portage)
+- hexdump (portage)
+- base64 (portage)
+- strings (portage)
+- xxd (portage)
