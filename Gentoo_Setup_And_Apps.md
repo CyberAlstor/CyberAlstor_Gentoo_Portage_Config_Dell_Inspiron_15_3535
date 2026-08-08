@@ -27,10 +27,12 @@ These are trusted free and open source packages installed directly onto the host
 
 ## 2.2 Security
 
-- tor (configure w/ meek bridge)
+**Self-NOTE:** I may remove my VPN (ProtonVPN) for privacy reasons. It's shown that free VPN providers sell customer's metadata for money.
+
+- tor
 - proxychains
 - lynis
-- ClamAV (**Author's NOTE:** don't analyze on open in ~/Documents and ~/Music)
+- ClamAV (**Author's NOTE:** don't analyze files on open in ~/Documents and ~/Music)
 - Clamtk (ClamAV GUI)
 - rkhunter
 - chkrootkit
@@ -47,6 +49,7 @@ These are trusted free and open source packages installed directly onto the host
 - glm
 - mg
 - ranger
+- tmux
 - podman
 - podman-compose
 - GNU Emacs (requires libvterm package)
@@ -70,6 +73,7 @@ These are trusted free and open source packages installed directly onto the host
 - qBittorrent
 - QGis (navigation software)
 - Kcalc
+- Anki
 
 ## 2.5 Creative Software
 
@@ -90,7 +94,6 @@ Some free and open source applications that are not available through Portage, s
 - SimpleX Chat (use Tor)
 - Podman Desktop
 - Jami a GNU Package
-- Vesktop (Discord alt, access w/ VPN from home, use Discord website over Tor in public)
 
 # 4. Appimages (+ others ex. .jar, .sh, etc)
 
@@ -110,6 +113,7 @@ Appimages and other forms of executables are an unpreferred method of installati
 - Beyond All Reason (flatpak via flathub)
 - sauerbraten (portage)
 - supertuxkart (portage)
+- Prism (flatpak via flathub)
 
 # 6. Reverse Engineering
 
@@ -118,9 +122,7 @@ This is a list of tools I use for RE. Only FOSS software only (ex. IDA Pro isn't
 - Ghidra (Github)
 - debloat (https://github.com/Squiblydoo/debloat)
 - Rizin (portage)
-- Radare2 (portage)
 - Cutter (flathub), rizin gui
-- Iaito (flathub), radare2 gui
 - gdb (portage)
 - hexdump (portage)
 - base64 (portage)
