@@ -128,3 +128,4 @@ This is a list of tools I use for RE. Only FOSS software only (ex. IDA Pro isn't
 - base64 (portage)
 - strings (portage)
 - xxd (portage)
+- vmm + qemu (portage)
